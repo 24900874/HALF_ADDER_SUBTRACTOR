@@ -76,8 +76,6 @@ assign borrow= ( ~a & b);
 endmodule
 ```
 
-Developed by: M. KISHORE
-RegisterNumber:24900763
 
 **RTL Schematic**
 
